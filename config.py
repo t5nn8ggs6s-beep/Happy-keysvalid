@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.getenv("8705224805:AAGGR67NGUKBFL719Y4YZ2Ydh_Es8qarq8A")
+BOT_TOKEN = "8705224805:AAGGR67NGUKBFL719Y4YZ2Ydh_Es8qarq8A"
 CHANNEL = "@happchannel"  # канал для проверки подписки
 
 PRICES = {
